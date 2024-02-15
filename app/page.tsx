@@ -1,6 +1,5 @@
-import PageUseEffect from "./pages/page-use-effect/page";
-// import PageUseState from "./pages/page-use-state/page";
+import PageUseMemo from "./pages/page-use-memo/page";
 
 export default function Home() {
-  return <PageUseEffect />;
+  return <PageUseMemo />;
 }
